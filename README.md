@@ -1,4 +1,4 @@
-# Simulation Assignments and Course Project
+# Course Projects
 Welcome to the EE4140 Repository!
 
 # SA1
