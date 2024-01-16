@@ -12,3 +12,6 @@ Here, we simulate an LMMSE (Linear Minimum Mean Squared Error) based Linear Equa
 - a report explaining the work
 - plots
 
+# Final Project
+We implement the Beneveniste and Goursat Blind Adaptive Algorithm and compare its performance with the Statistical Wiener Filter (LMMSE) Equalizer. The folder contains the presentation that summarises this work. The file `code` is a Jupyter Notebook for the corresponding code.
+
